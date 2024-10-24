@@ -35,5 +35,5 @@ public class CustomListTest {
         list.addCity(city);
         assertEquals(true, list.hasCity(city));
     }
-    
+
 }
